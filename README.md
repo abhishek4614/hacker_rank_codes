@@ -1,6 +1,6 @@
 # hacker_rank_codes
-hackerrank code-8
-#List Comprehensions
+# hackerrank code-8
+# List Comprehensions
 if __name__ == '__main__':
     x = int(input())
     y = int(input())
